@@ -6,7 +6,7 @@
 </head>
 <body>
 <div class="main">
-    <p style="border:1px solid red">To jest mój tekst w paragrafie<br>i kolejna linia.<a href="">A to mój link</a></p>
+    <p style="border:1px solid red">To jest mój tekst w paragrafie<br>i kolejna linia.<a href="" style="text-decoration:none">A to mój link</a></p>
 </div>
 </body>
 </html>
