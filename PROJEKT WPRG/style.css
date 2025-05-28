@@ -1,0 +1,193 @@
+a{
+    color:inherit;
+    text-decoration: none;
+}
+.main{
+    font-family:Arial;
+    display:grid;
+    /*height:1920px;*/
+    /*width:1080px;*/
+    height:auto;
+    width:100%;
+    background-color: white;
+    grid-template-columns: repeat(11,1fr);
+    grid-auto-rows:min-content;
+}
+.logo img {
+    height: 50px;
+    width: 100px;
+}
+.headercaly {
+    display: grid;
+    grid-template-columns: 100px repeat(10, 1fr);
+    align-items: center;
+    background-color: lightgray;
+    grid-column: 1 / 12;
+    grid-row: 1 / 2;
+    padding: 10px 0;
+}
+.headers nav {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+.NEWS{
+    border: 1px solid  lightgray;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: left;
+    margin:10px;
+    padding:10px;
+}
+.N1{
+    grid-area: 3/2/7/5;
+}
+.N2{
+    grid-area: 3/5/7/8;
+}
+.N3{
+    grid-area:3/8/7/11;
+}
+.N4{
+    grid-area:8/2/12/5;
+}
+.N5{
+    grid-area:8/5/12/8;
+}
+.N6{
+    grid-area:8/8/12/11;
+}
+.N7{
+    grid-area:13/2/17/5;
+}
+.N8{
+    grid-area:13/5/17/8;
+}
+.N9{
+    grid-area:13/8/17/11;
+}
+.N10{
+    grid-area:18/2/22/5;
+}
+.N11{
+    grid-area:18/5/22/8;
+}
+.N12{
+    grid-area:18/8/22/11;
+}
+.N13{
+    grid-area:23/2/27/5;
+}
+.N14{
+    grid-area:23/5/27/8;
+}
+.N15{
+    grid-area:23/8/27/11;
+}
+
+
+p{
+    margin-top: 0px;
+    padding:5px 0px 0px 0px;
+    font-size: 12pt;
+}
+.Kontakt{
+    border: 1px solid  lightgray;
+    grid-area:3/4/6/9;
+    display: block;
+    margin-bottom: 405px;
+    margin-top: 50px;
+}
+.KL{
+    display: block;
+    margin-bottom:10px;
+}
+.KF{
+    display:block;
+    margin:0 auto;
+    max-width: 500px;
+    padding: 20px;
+}
+.KI{
+    display:block;
+    width:100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.KB{
+    display:block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    border:none;
+}
+.KWiad {
+    width: 100%;
+    min-height: 50px;
+    max-height: 120px;
+    resize: vertical;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+
+}
+
+h2{
+    font-weight: bold;
+}
+.Artc{
+    font-size: 20px;
+}
+.ARTMAIN {
+    grid-column: 2 / 10;
+    /*grid-row: 3 / 30;*/
+    justify-items: center;
+}
+
+.ARTMAIN img{
+   max-height:600px;
+    width:800px;
+}
+
+.NEWS img{
+    max-width: 80%;
+    height: auto;
+}
+
+
+.comments {
+    grid-column: 2/11;
+    justify-items: center;
+}
+
+.comment-box {
+    width: 100%;
+    min-height: 80px;
+    max-height: 200px;
+    resize: none;
+    margin:10px;
+}
+.comments123{
+    margin: 10px 0;
+    padding: 10px;
+}
+.footer{
+    background-color: lightgray;
+    text-align: center;
+    line-height: 50px;
+    grid-row: 30/31;
+
+    grid-column: 1/12;
+}
+
+
+
+

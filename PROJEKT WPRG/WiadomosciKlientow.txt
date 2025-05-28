@@ -1,0 +1,24 @@
+Data: 2025-05-24 17:44
+Imię i nazwisko: 
+Email: 123@gmail.com
+Telefon: 
+Wiadomość: Dajcie wiecej polityki!!
+--------------------------------------
+Data: 2025-05-24 17:45
+Imię i nazwisko: 
+Email: abc3@gmail.com
+Telefon: 
+Wiadomość: Witam, chciałbym prosić o więcej newsów o sporcie, jestem wielkim fanem Roberta Lewandowskiego i piłki nożnej
+--------------------------------------
+Data: 2025-05-24 17:46
+Imię i nazwisko: 
+Email: abc3@gmail.com
+Telefon: 
+Wiadomość: Witam, chciałbym prosić o więcej newsów o sporcie, jestem wielkim fanem Roberta Lewandowskiego i piłki nożnej
+--------------------------------------
+Data: 2025-05-24 22:20
+Imię i nazwisko: 
+Email: abc@gmail.com
+Telefon: 
+Wiadomość: 123
+--------------------------------------
